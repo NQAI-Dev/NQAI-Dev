@@ -19,6 +19,9 @@
 **~4 МБ RAM** у агента, авто-heal для Docker/systemd, публичные статус-страницы.
 Standalone замена Prometheus + Grafana + Alertmanager.
 
+#### 🤖 [NodePulse Bot](https://github.com/NQAI-Dev/nodepulse-bot)
+Telegram-бот для NodePulse: HTTP/TCP/MC/Minecraft-пробы, cooldown, история проверок, `/start login` deep-link с HMAC-подписью.
+
 #### ✉️ [NQAIMail](https://github.com/NQAI-Dev/nqai-mail)
 Single-binary SMTP-сервер на Go. Maildir backend, STARTTLS, AUTH PLAIN, greylisting, DKIM.
 Standalone замена Stalwart / iRedMail / Mailcow.
