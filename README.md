@@ -23,6 +23,10 @@ Standalone замена Prometheus + Grafana + Alertmanager.
 Single-binary SMTP-сервер на Go. Maildir backend, STARTTLS, AUTH PLAIN, greylisting, DKIM.
 Standalone замена Stalwart / iRedMail / Mailcow.
 
+#### 🐍 [Habr SDK](https://github.com/NQAI-Dev/habr-sdk)
+Лёгкий Python-клиент для Habr API (v2 / kek API). Без внешних зависимостей.
+Standalone замена `habr`/`habralib` для парсинга статей, хабов и пользователей.
+
 ---
 
 ### 🛠 Стек
