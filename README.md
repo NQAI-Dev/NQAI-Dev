@@ -30,6 +30,22 @@ Standalone замена Stalwart / iRedMail / Mailcow.
 Лёгкий Python-клиент для Habr API (v2 / kek API). Без внешних зависимостей.
 Standalone замена `habr`/`habralib` для парсинга статей, хабов и пользователей.
 
+#### 📋 [es-paste](https://github.com/NQAI-Dev/es-paste)
+Минималистичный моноширинный pastebin и сервис анализа краш-логов.
+Axum + SQLite + Zstandard, авто-TTL, EULA-детект, без внешних хранилищ.
+
+#### ⛏️ [mc-log-analyzer](https://github.com/NQAI-Dev/mc-log-analyzer)
+Регулярный диагностический парсер `latest.log` Minecraft-серверов.
+Python 3.11+ stdlib, детектит EULA/порт/Java/OOM/плагины/чанки/sqlite, выдаёт root cause + fix hint.
+
+#### 📊 [system-monitor](https://github.com/NQAI-Dev/system-monitor)
+Однофайловый FastAPI-дашборд живых метрик Linux-хоста.
+CPU, RAM, swap, диски, сеть, uptime/load, статус systemd. Авто-рефреш 3 секунды.
+
+#### 🧠 [NQAI Atlas](https://github.com/NQAI-Dev/nqai-atlas)
+Локальное append-only хранилище долговечных фактов, решений, целей и связей.
+CLI + MCP-сервер, цепочки `supersedes`, weekly-review, health-checks, Git-snapshot-наблюдения.
+
 ---
 
 ### 🛠 Стек
