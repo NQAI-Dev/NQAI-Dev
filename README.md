@@ -24,6 +24,7 @@ Telegram-бот для NodePulse: HTTP/TCP/MC/Minecraft-пробы, cooldown, и
 
 #### ✉️ [NQAIMail](https://github.com/NQAI-Dev/nqai-mail)
 Single-binary SMTP-сервер на Go. Maildir backend, STARTTLS, AUTH PLAIN, greylisting, DKIM.
+SPF-проверка входящей почты, PBKDF2-хранилище пользователей и CLI для управления аккаунтами.
 Standalone замена Stalwart / iRedMail / Mailcow.
 
 #### 🐍 [Habr SDK](https://github.com/NQAI-Dev/habr-sdk)
